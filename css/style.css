@@ -6,7 +6,7 @@ body{
 
 .header{
     display: flex;
-    width: 80%;
+    width: 1200px;
     margin: auto;
 
 }
@@ -127,6 +127,7 @@ body{
 .main-body .right-main-body{
     width: 50%;
     justify-content: right;
+    position: relative;
     
 }
 
@@ -141,8 +142,8 @@ body{
 
 .main-body .right-main-body .right-main-body-img2{
     position: absolute;
-    right: 235px;
-    top: 155px
+    right: 74px;
+    top: 23px;
 }
 
 
@@ -172,7 +173,7 @@ body{
 }
 
 .popular-collection{
-    width: 70%;
+    width: 1000px;
     margin: auto;
 
 }
@@ -244,7 +245,7 @@ body{
 }
 
 .future-producs{
-    width: 80%;
+    width: 1200px;
     display: grid;
     grid-template-columns: auto auto auto;
     margin: auto;
@@ -334,7 +335,7 @@ body{
 }
 .footer ul{
     display: flex;
-    padding-left: 40px;
+    justify-content: center;
     
 
 }

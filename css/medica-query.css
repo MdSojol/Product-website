@@ -1,0 +1,347 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+    
+    
+  .header{
+    width: 1000px;
+  }
+  .main-body{
+    width: 1000px;
+  }
+  .main-body .right-main-body .right-main-body-img2 {
+    right: -30px;
+  }
+  .main-body .left-main-body h1 {
+    font-size: 2.5rem;
+  }
+  .brand-menu {
+    width: 80%;
+    margin: auto;
+    padding: 100px;
+    margin-left: 0px;
+}
+
+.future-producs {
+  width: 1000px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+    
+  }
+
+
+
+
+
+
+
+
+  @media (min-width: 992px) and (max-width: 1199px) {
+    
+    
+    .header{
+      width: 800px;
+    }
+    .main-body{
+      width: 950px;
+    }
+    .main-body .right-main-body .right-main-body-img2 {
+      right: -48px;
+    }
+    .main-body .left-main-body h1 {
+      font-size: 2.5rem;
+    }
+    .popular-collection {
+      width: 900px;
+    }
+
+
+
+    .brand-menu {
+      width: 80%;
+      margin: auto;
+      padding: 100px;
+      margin-left: 0px;
+  }
+  
+  .future-producs {
+    width: 900px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 100px;
+  }
+  
+      
+    }
+
+
+
+
+    
+
+  @media (min-width: 768px) and (max-width: 991px) {
+    
+    
+    .header{
+      width: 760px;
+    }
+
+    .header .logo h3 {
+      font-size: 1.2rem;
+  }
+
+  .header .menu ul li a {
+    font-size: .8rem;
+}
+    .main-body{
+      width: 750px;
+    }
+
+    .main-body .left-main-body {
+      width: 50%;
+      margin-top: 36px;
+  }
+
+    .main-body .right-main-body .right-main-body-img1 {
+      position: relative;
+      z-index: -1;
+      left: 60px;
+      width: 300px;
+  }
+    .main-body .right-main-body .right-main-body-img2 {
+      right: 8px;
+      width: 300px;
+      top: 5px;
+    }
+    
+
+
+    .main-body .left-main-body h1 {
+      font-size: 1.8rem;
+    }
+    .main-body .left-main-body p {
+      font-size: 0.8rem;
+     
+  }
+
+  .main-body .left-main-body button {
+    margin-top: 17px;
+    padding: 5px 17px;
+    font-size: 1rem;
+}
+
+    
+    .popular-collection {
+      width: 800px;
+    }
+
+    .popular-collection > h3 {
+      font-size: 1.65rem;
+      padding-bottom: 0px;
+  }
+
+    .popular-collection .popular-collection-list {
+      margin: 50px;
+  }
+
+  .popular-collection-See-More {
+    margin: 50px;
+}
+
+    .brand-menu {
+      width: 80%;
+      margin: auto;
+      /* padding: 100px; */
+      /* margin-left: 0px; */
+      padding: 50px 0px;
+      /* display: block; */
+      justify-content: center;
+  }
+
+  .brand-menu ul li a img {
+    height: 12px;
+}
+  
+  .future-producs {
+    width: 800px;
+    display: grid;
+    grid-template-columns: auto;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 100px;
+  }
+  .future-producs .future-produc-img-left {
+    margin: auto;
+}
+.future-producs .future-produc-text-right {
+  font-family: "Poppins", sans-serif;
+  /* margin-left: 100px; */
+  margin: auto;
+  width: 70%;
+}
+.future-producs .future-produc-text-right h3{
+
+  font-size: 1.8rem;
+}
+
+.future-producs .future-produc-text-right p{
+
+  font-size: .8rem;
+}
+.future-producs .future-produc-text-right button {
+  margin-top: 17px;
+  padding: 3px 16px;
+  font-size: 1.1rem;
+}
+
+
+
+
+      
+    }
+
+
+
+
+
+
+
+
+
+
+    
+  @media (min-width: 576px) and (max-width: 767px) {
+    
+    
+    .header{
+      width: 760px;
+    }
+
+    .header .logo h3 {
+      font-size: 1rem;
+  }
+
+  .header .menu ul li a {
+    font-size: .6rem;
+}
+    .main-body{
+      width: 750px;
+    }
+
+    .header .menu .search-button .search-button-img1 {
+      width: 100px;
+      margin-top: -3px;
+  }
+
+  .header .menu .search-button .search-button-img2 {
+    width: 20px;
+    top: -29px;
+}
+
+    .main-body .left-main-body {
+      width: 50%;
+      margin-top: 36px;
+  }
+
+    .main-body .right-main-body .right-main-body-img1 {
+      position: relative;
+      z-index: -1;
+      left: 60px;
+      width: 300px;
+  }
+    .main-body .right-main-body .right-main-body-img2 {
+      right: 8px;
+      width: 300px;
+      top: 5px;
+    }
+    
+
+
+    .main-body .left-main-body h1 {
+      font-size: 1.8rem;
+    }
+    .main-body .left-main-body p {
+      font-size: 0.8rem;
+     
+  }
+
+  .main-body .left-main-body button {
+    margin-top: 17px;
+    padding: 5px 17px;
+    font-size: 1rem;
+}
+
+    
+    .popular-collection {
+      width: 800px;
+    }
+
+    .popular-collection > h3 {
+      font-size: 1.65rem;
+      padding-bottom: 0px;
+  }
+
+    .popular-collection .popular-collection-list {
+      margin: 50px;
+  }
+
+  .popular-collection-See-More {
+    margin: 50px;
+}
+
+    .brand-menu {
+      width: 80%;
+      margin: auto;
+      /* padding: 100px; */
+      /* margin-left: 0px; */
+      padding: 50px 0px;
+      /* display: block; */
+      justify-content: center;
+  }
+
+  .brand-menu ul li a img {
+    height: 12px;
+}
+  
+  .future-producs {
+    width: 800px;
+    display: grid;
+    grid-template-columns: auto;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 100px;
+  }
+  .future-producs .future-produc-img-left {
+    margin: auto;
+}
+.future-producs .future-produc-text-right {
+  font-family: "Poppins", sans-serif;
+  /* margin-left: 100px; */
+  margin: auto;
+  width: 70%;
+}
+.future-producs .future-produc-text-right h3{
+
+  font-size: 1.8rem;
+}
+
+.future-producs .future-produc-text-right p{
+
+  font-size: .8rem;
+}
+.future-producs .future-produc-text-right button {
+  margin-top: 17px;
+  padding: 3px 16px;
+  font-size: 1.1rem;
+}
+
+
+
+
+      
+    }
