@@ -148,30 +148,18 @@ body{
 
 
 .brand-menu{
-    width: 80%;
+    width: 100%;
     margin: auto;
     padding: 100px;
-}
-
-.brand-menu ul{
     display: flex;
     justify-content: center;
-    border-top: 1px solid #00000012;
-    border-bottom: 1px solid #00000012;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
 }
-.brand-menu ul li{
-    list-style: none;
-    margin: 30px;
-
+.brand-menu a img {
+    width: 105px;
 }
-.brand-menu ul li a{
-    text-decoration: none;
-    text-align: center;
-}
-.brand-menu ul li a img{
-    height: 25px;
-}
-
 .popular-collection{
     width: 1000px;
     margin: auto;
